@@ -1,7 +1,7 @@
 *.dylib
 OpenCV/*
-lab3/
 csi4133sandbox.xcodeproj/project.xcworkspace/xcuserdata/
 csi4133sandbox.xcodeproj/xcuserdata/
 csi4133sandbox.xcodeproj/project.pbxproj
 csi4133sandbox/
+videos/
